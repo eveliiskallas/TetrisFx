@@ -1,9 +1,9 @@
 package ee.itcollege.tetris.lib;
 
 
-import java.util.List;
-
 import javafx.scene.shape.Shape;
+
+import java.util.List;
 
 /**
  * JavaFX collision detector for {Shape}s and {List}s of {Shape}s
